@@ -1,5 +1,4 @@
-# app-dev
-My first repository 
+My favorite movies amd series.
 
 1. Stranger Things 
 2. Umbrella Academy 
